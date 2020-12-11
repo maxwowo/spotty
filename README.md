@@ -19,3 +19,6 @@ https://youtu.be/qH_30k9h7So
 - [Sarah Tan](https://github.com/serahtan)
 - Victor Kuo
 - [Zac Sanchez](https://github.com/divCurlF)
+
+# Security
+Any sensitive information has been removed prior to the first commit of this mirror repository.
