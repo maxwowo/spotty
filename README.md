@@ -5,3 +5,17 @@ go/spotty is a search engine for finding go/____ links within Atlassian, built o
 # Installation
 `npm install && npm run start` in backend, then frontend  
 Launch with `CMD+N` shortcut
+
+# Pitch
+https://youtu.be/qH_30k9h7So
+
+# Team Members
+- Max Wo
+- Daniel Huang
+- Darius Zhu
+- Harrison Doran
+- Jeremy Lim
+- Jing Li
+- Sarah Tan
+- Victor Kuo
+- Zac Sanchez
