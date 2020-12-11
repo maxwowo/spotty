@@ -1,0 +1,4 @@
+{
+    "typescript.tsdk": "./frontend/electron/node_modules/typescript/lib",
+    "editor.formatOnSave": true
+}
