@@ -12,10 +12,10 @@ https://youtu.be/qH_30k9h7So
 # Team Members
 - [Max Wo](https://github.com/maxwowo)
 - [Daniel Huang](https://github.com/daniel-huang98)
-- Darius Zhu
+- [Darius Zhu](https://github.com/zhudarius)
 - Harrison Doran
-- Jeremy Lim
+- [Jeremy Lim](https://github.com/hitokage13)
 - Jing Li
-- Sarah Tan
+- [Sarah Tan](https://github.com/serahtan)
 - Victor Kuo
-- Zac Sanchez
+- [Zac Sanchez](https://github.com/divCurlF)
