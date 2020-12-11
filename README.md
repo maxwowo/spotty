@@ -10,8 +10,8 @@ Launch with `CMD+N` shortcut
 https://youtu.be/qH_30k9h7So
 
 # Team Members
-- Max Wo
-- Daniel Huang
+- [Max Wo](https://github.com/maxwowo)
+- [Daniel Huang](https://github.com/daniel-huang98)
 - Darius Zhu
 - Harrison Doran
 - Jeremy Lim
