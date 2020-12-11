@@ -15,7 +15,7 @@ https://youtu.be/qH_30k9h7So
 - [Darius Zhu](https://github.com/zhudarius)
 - Harrison Doran
 - [Jeremy Lim](https://github.com/hitokage13)
-- Jing Li
+- [Jing Li](https://github.com/jingli1998)
 - [Sarah Tan](https://github.com/serahtan)
 - Victor Kuo
 - [Zac Sanchez](https://github.com/divCurlF)
